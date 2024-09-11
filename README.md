@@ -40,6 +40,6 @@ Muchas personas significadas en el mundo de la programación abogan por el uso y
 
 Melissa Weber Mendonça (Quansight), desarrolladora de NumPy y defensora activa del uso de Fortran, responde al mensaje diciendo [[16]](https://x.com/melissawm/status/1334818706082426880): _"Voy a imprimir la respuesta de Guido para agregarla a cada presentación en el futuro para que la gente no se burle de mí"_.
 
-- Fernando Pérez (U. Berkey), creador de Jupyter: _"Fortran is still highly relevant to science, and infused with new ideas"_. Fernando también menciona que Ondřej Čertík (Microsoft), creador de SymPy, es contribuidor activo de @fortranlang.
+- Fernando Pérez (U. Berkey), creador de Jupyter: _"Fortran is still highly relevant to science, and infused with new ideas"_. Fernando también menciona que Ondřej Čertík (GSI Technology), creador de SymPy, es contribuidor activo de @fortranlang.
 
 Ondřej Čertík continúa con sus desarrollos en Fortran. Por ejemplo, en marzo de 2023, presentó en su blog _fastGPT: Faster than PyTorch in 300 lines of Fortran_ [[17]](https://ondrejcertik.com/blog/2023/03/fastgpt-faster-than-pytorch-in-300-lines-of-fortran/), donde escribe: _"Using a language like Fortran, which is oriented to the fastest possible array computations, allows to write code that is the highly performing, but still readable, because things get complicated and one must be able to maintain it."_
