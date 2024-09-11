@@ -36,7 +36,7 @@ Fortran no es un lenguaje "residual" en el cálculo numérico y la computación 
 
 Muchas personas significadas en el mundo de la programación abogan por el uso y aprendizaje del Fortran Moderno. Por poner un ejemplo, en [[15]](https://fortran-lang.discourse.group/t/embed-a-jupyter-notebook-in-fortran-lang-org-learn/724/6) se mencionan los mensajes enviados en diciembre de 2020 por: 
 
-- Guido van Rossum (Microsoft), creador de Python: En respuesta al mensaje de @ramalhoorg cuya traducción sería: _"Todavía no he encontrado un lenguaje que sea fácil para principiantes, práctico para profesionales y emocionante para los hackers como lo es Python._, el usuario @apaes_official indica _"Fortran was good too"_, a lo que Guido responde: `s/was/is/` (una manera de indicar que se debe cambiar el pasado por el presente).
+- Guido van Rossum (Microsoft), creador de Python: En respuesta al mensaje de @ramalhoorg cuya traducción sería: _"Todavía no he encontrado un lenguaje que sea fácil para principiantes, práctico para profesionales y emocionante para los hackers como lo es Python"_, el usuario @apaes_official indica _"Fortran was good too"_, a lo que Guido responde: `s/was/is/` (una manera de indicar que se debe cambiar el pasado por el presente).
 
 Melissa Weber Mendonça (Quansight), desarrolladora de NumPy y defensora activa del uso de Fortran, responde al mensaje diciendo [[16]](https://x.com/melissawm/status/1334818706082426880): _"Voy a imprimir la respuesta de Guido para agregarla a cada presentación en el futuro para que la gente no se burle de mí"_.
 
